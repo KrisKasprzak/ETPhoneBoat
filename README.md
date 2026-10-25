@@ -9,7 +9,7 @@ for around **$100** in parts.
 
 ![ET Phone Boat, a 19 inch Lightning sailboat replica with ESP32 electronics](Images/IMG_5865.JPG)
 
-> 🎬 **YouTube video coming soon!**
+> 🎬 YouTube video https://youtu.be/pYyqOyXu2d4
 
 ---
 
